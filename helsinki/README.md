@@ -6,6 +6,26 @@
  - Annie Talvasto, Student
  - Teemu Heikkilä, Emblica
 
+### March 2022 Kubernetes Meetup
+
+#### Agenda
+
+ - Date: 23rd of March, 2022 at 6pm - 9pm
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/284294851/
+ - Livestream / video: TBA
+ - Attendees (according to meetup.com): TBA
+ - Venue sponsor: [UpCloud](https://upcloud.com/
+ - Food / drinks sponsor: [Accenture](https://upcloud.com/)
+ - General meetup sponsors: [CNCF](https://cncf.io) & [luxas labs](https://luxaslabs.com)
+
+18:00-18:05: Welcome from organisers
+18:10-18:20: Introductory words from the venue sponsor for this time, UpCloud 
+18:20-18:40: Cloud Native Community Updates (Lucas & Annie) 
+18:50-19:20: Cloud Native User Centered Design/Engineering (Nate)
+19:20-19:50: Networking break (includes snack)
+19:50-20:20: Karpenter for Kubernetes Cluster Autoscaling (Jukka)
+20:20-22:00: Networking after work
+
 ### Winter Kubernetes Meetup
 
  - Date: 23rd of January, 2019 at 6pm - 9pm
